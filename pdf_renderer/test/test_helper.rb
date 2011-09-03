@@ -18,5 +18,5 @@ Capybara.default_selector = :css
 # Run any available migration
 ActiveRecord::Migrator.migrate File.expand_path("../dummy/db/migrate/", __FILE__)
 
-# Load support files
+# Load support fileup
 Dir["#{File.dirname(__FILE__)}/support/**/*.rb"].each { |f| require f }
