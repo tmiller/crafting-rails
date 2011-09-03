@@ -1,4 +1,4 @@
 = Crafting Rails
 
-These are the examples from {Crafting Rails}[http://pragprog.com/book/jvrails/crafting-rails-applications]
+These are the examples from {Crafting Rails}[http://pragprog.com/book/jvrails/crafting-rails-applications].
 I am using this to learn more about how rails works
